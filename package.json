@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dudumax/js_tests/issues"
   },
-  "homepage": "https://github.com/dudumax/js_tests#readme"
+  "homepage": "https://github.com/dudumax/js_tests#readme",
+  "dependencies": {
+    "file-url": "^3.0.0"
+  }
 }
