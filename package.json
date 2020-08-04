@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/dudumax/js_tests#readme",
   "dependencies": {
+    "describe": "^1.2.0",
+    "esm": "^3.2.25",
     "file-url": "^3.0.0"
   }
 }
